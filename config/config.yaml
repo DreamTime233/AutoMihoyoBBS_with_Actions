@@ -6,13 +6,13 @@ games:
       auto_checkin: true
       black_list: []
     hokai2:
-      auto_checkin: true
+      auto_checkin: false
       black_list: []
     honkai3rd:
       auto_checkin: true
       black_list: []
     tears_of_themis:
-      auto_checkin: true
+      auto_checkin: false
       black_list: []
     useragent: Mozilla/5.0 (Linux; Android 12; Unspecified Device) AppleWebKit/537.36
       (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36
